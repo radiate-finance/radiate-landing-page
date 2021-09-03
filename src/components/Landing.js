@@ -8,13 +8,13 @@ const Landing = () => {
     return(
         <div className="body">
             <div>
-                <img src={BgImg} className="img" />
+                <img src={BgImg} className="img" alt="bg-img"/>
             </div>
             <div className="container">
                 <div className="nav">
                     <h3 className="brand">Radiate</h3>
                 </div>
-                <img src={Line} className="line" />
+                <img src={Line} className="line" alt="line"/>
                 <div className="header">
                     <div className="col-lg-7 col-md-6 col-sm-6">
                         <h1 className="land-head">The protocol for real time finance</h1>
