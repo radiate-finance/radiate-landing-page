@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/landing.css'
-import BgImg from '../assets/radiate-bg-.svg'
+import BgImg from '../assets/radiate-bg.jpg'
 import Line from '../assets/Line.svg'
 
 
