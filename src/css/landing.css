@@ -57,6 +57,23 @@
     color: #130F40;
     font-size: 20px;
     font-weight: 500;
+    margin-right: 20px;
+
+}
+.docs-btn{
+    border: 2px solid #97D5D6;
+    color: #97D5D6;
+    border-radius: 40px;
+    padding: 8px 45px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.docs-btn:hover, .docs-btn:focus, .docs-btn:active{
+    border: 2px solid #97D5D6;
+    color: #97D5D6;
+    outline: 0;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 480px) {
@@ -65,7 +82,7 @@
         position: absolute;
         left: 5%;
         top: 14%;
-        right: 5%;
+        right: 1%;
     }
     .land-head{
         font-size: 50px;
@@ -77,6 +94,12 @@
     }
     .use-btn{
         margin-top: 5px;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 5px 35px;
+    }
+    .docs-btn{
+        margin-top: 10px;
         font-size: 16px;
         font-weight: 500;
         padding: 5px 35px;
