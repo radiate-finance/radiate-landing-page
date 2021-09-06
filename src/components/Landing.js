@@ -21,8 +21,8 @@ const Landing = () => {
                     </div>
                     <div className="col-6">
                         <p className="land-text">Recurring payments with our real time finance protocol built on Tezos</p>
-                        <a className="btn use-btn" href="https://radiate.netlify.app/" target="_blank">Use DApp</a>
-                        <a className="btn docs-btn" href="https://radiate-finance.gitbook.io/radiate-finance/" target="_blank">See Docs</a>
+                        <a className="btn use-btn" href="https://radiate.netlify.app/" target="_blank" rel="noopener noreferrer">Use DApp</a>
+                        <a className="btn docs-btn" href="https://radiate-finance.gitbook.io/radiate-finance/" target="_blank" rel="noopener noreferrer">See Docs</a>
                     </div>
                 </div>
             </div>
